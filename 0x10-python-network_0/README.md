@@ -1,1 +1,1 @@
-ldk;lsdk,;/v
+Solutions to tasks on Python - Network #0
